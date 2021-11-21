@@ -16,5 +16,3 @@ Now you can run the Flask app using the folowing command : python3 main.py
 
 Enjoy => if you have any question you can contact me :)
 
-
-first edit push

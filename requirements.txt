@@ -3,3 +3,6 @@ flask-sqlalchemy
 flask-login
 werkzeug
 pandas
+python-jose
+flask_cors
+gunicorn
